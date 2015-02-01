@@ -12,6 +12,18 @@
 /* Basic                                                                         */
 /*********************************************************************************/
 
+/*@font-face {
+	font-family: 'BaronNeue';
+	src: url("../fonts/Baron Neue.otf") format("opentype");
+}
+
+#logo{
+	font-family: 'BaronNeue', sans-serif;
+	font-size: .75em;
+	letter-spacing: .2em;
+	padding-left: 3px;
+}*/
+
 	body
 	{
 		background: #f0f4f4;
