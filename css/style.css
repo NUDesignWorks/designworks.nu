@@ -24,6 +24,26 @@
 	padding-left: 3px;
 }*/
 
+.carousel-header{
+	text-align: center;
+}
+
+.portfolio .image.featured{
+	margin-bottom: 0;
+}
+
+.process .row article.special > header{
+	text-align: left;
+}
+.process .image.featured{
+	margin-bottom: 0;
+}
+
+#sidebar{
+	position: fixed;
+	padding-right: 30px;
+}
+
 	body
 	{
 		background: #f0f4f4;
@@ -687,6 +707,7 @@
 	
 		.wrapper.style1
 		{
+			padding-top: 2em;
 		}
 
 		.wrapper.style2
